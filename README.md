@@ -11,7 +11,7 @@ These tools are revolutionizing various domains:
 - **Visual Technology**: Image generation and video editing
 - **Productivity**: Code assistance and document generation
 
-## The Most Important AI Tools in 2024
+## Cool AI Tools in 2024
 
 - [Runway](https://runway.ml) - AI video editing and generation
 - [Midjourney](https://midjourney.com) - AI art generation
